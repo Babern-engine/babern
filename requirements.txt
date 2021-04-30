@@ -1,0 +1,4 @@
+numba
+pygame
+numpy
+ursina
